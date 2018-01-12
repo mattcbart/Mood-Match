@@ -1,0 +1,1 @@
+﻿1>------ Build started: Project: MoodMatch, Configuration: Release x64 ------
